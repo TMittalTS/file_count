@@ -1,7 +1,7 @@
 import logging
 
 KEYVAULT_NAME = "TS-ITApps-KeyVault"
-BOX_IMPERSONATE_USER_ID = "261171497" #"19470251653"#"261171497"
+BOX_IMPERSONATE_USER_ID = "42351542207" #"19470251653"#"261171497"
 SUPPORTED_EXTENSIONS = (".pdf", ".txt", ".docx",".doc")
 
 # Logger configuration
