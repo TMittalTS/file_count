@@ -1,0 +1,7 @@
+Requirement already satisfied: box-sdk-gen in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (1.14.0)
+Requirement already satisfied: requests in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from box-sdk-gen) (2.32.3)
+Requirement already satisfied: requests-toolbelt in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from box-sdk-gen) (1.0.0)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from requests->box-sdk-gen) (3.4.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from requests->box-sdk-gen) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from requests->box-sdk-gen) (2.4.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\tanma\desktop\altudo\simple_python_script\.venv\lib\site-packages (from requests->box-sdk-gen) (2025.4.26)

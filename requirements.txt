@@ -1,0 +1,11 @@
+#
+# Here should only include direct dependencies
+#
+azure-identity
+azure-keyvault-secrets
+box-sdk-gen>=1.12.0
+databricks-connect==15.4.2  # Fixed version for compatibility
+openai 
+pyspark
+requests
+
